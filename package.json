@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+  "name": "drum-machine",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://zanderbe.github.io/drum-machine/",
@@ -33,4 +33,3 @@
     ]
   }
 }
-
